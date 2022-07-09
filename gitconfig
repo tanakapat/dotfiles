@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = patricia.tanaka.3@hotmail.com
+	name = tanaka
